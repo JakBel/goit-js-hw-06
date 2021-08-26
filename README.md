@@ -1,1 +1,1 @@
-# goit-js-hw-06
+# Zadanie domowe JavaScript nr 6
